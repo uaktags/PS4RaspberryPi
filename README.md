@@ -1,3 +1,6 @@
+PSFree v1.4.0 included - https://github.com/kmeps4/PSFree
+I've merged the updates from kmeps4's kexploit.js and added Goldhen 2.4b16.2 thanks to Sistro
+
 **PS4RaspberryPi**
 Following is the Write up on how to use the Raspberry Pi (Zero W, Zero 2 W, 4 B) to host a Web server, DNS Server, Key stroke Simulation, USB image and emulator
 Things required
@@ -117,4 +120,4 @@ Method 2
 1.	Sleirsgoevy – Webkit, Offline Activator
 2.	Chendochap – KeExploit
 3.	TylerMods, Kameleon –Offline Trainer
-
+4.  Kameleon - PSFree
